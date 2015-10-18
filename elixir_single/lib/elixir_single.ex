@@ -1,0 +1,2 @@
+defmodule ElixirSingle do
+end
